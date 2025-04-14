@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualStoreMacoratti.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a75ae32d288e8f2506d0b4231e3659018c647dd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cc07420abbb63a5f3a6653a9049843b4783af90")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualStoreMacoratti.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualStoreMacoratti.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

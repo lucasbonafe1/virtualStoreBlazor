@@ -15,4 +15,8 @@
     <ProjectReference Include="..\VirtualStoreMacoratti.Models\VirtualStoreMacoratti.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Imagens\imageProduct.png" />
+  </ItemGroup>
+
 </Project>

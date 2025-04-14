@@ -3,36 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2F2F659-DFD3-4CD3-A24C-0A219AC00496}|..\\VirtualStoreMacoratti.AppWeb\\VirtualStoreMacoratti.AppWeb.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.appweb\\pages\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C2F2F659-DFD3-4CD3-A24C-0A219AC00496}|..\\VirtualStoreMacoratti.AppWeb\\VirtualStoreMacoratti.AppWeb.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.appweb\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C2F2F659-DFD3-4CD3-A24C-0A219AC00496}|..\\VirtualStoreMacoratti.AppWeb\\VirtualStoreMacoratti.AppWeb.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.appweb\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2F2F659-DFD3-4CD3-A24C-0A219AC00496}|..\\VirtualStoreMacoratti.AppWeb\\VirtualStoreMacoratti.AppWeb.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.appweb\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F2F659-DFD3-4CD3-A24C-0A219AC00496}|..\\VirtualStoreMacoratti.AppWeb\\VirtualStoreMacoratti.AppWeb.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.appweb\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F2F659-DFD3-4CD3-A24C-0A219AC00496}|..\\VirtualStoreMacoratti.AppWeb\\VirtualStoreMacoratti.AppWeb.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.appweb\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F2F659-DFD3-4CD3-A24C-0A219AC00496}|..\\VirtualStoreMacoratti.AppWeb\\VirtualStoreMacoratti.AppWeb.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.appweb\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\pages\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:pages\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\BlazorApp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\virtualstoremacoratti.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:virtualstoremacoratti.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\virtualstoremacoratti.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,19 +78,100 @@
       "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\virtualstoremacoratti.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{125CCC11-7084-40E8-8498-A88229166C8E}|VirtualStoreMacoratti.Web.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\repositories\\carrinhocomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\repositories\\icarrinhocomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\dto\\carrinhoitemadicionadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\dto\\carrinhoitematualizaquantidadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\dto\\carrinhoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\entities\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28106139-6374-4910-A227-633D49963E64}|..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.models\\virtualstoremacoratti.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\entities\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\entities\\carrinhoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F25F2C74-BDF2-4798-884F-7A4F19EBCAE0}|..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj|c:\\users\\bonaf\u00E9\\source\\repos\\virtualstoremacoratti.api\\migrations\\20250413164604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Layout\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Layout\\MainLayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,128 +181,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250413164604_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
-              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
-              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:46:04.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:35:14.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\Class1.cs",
-              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T16:34:42.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VirtualStoreMacoratti.Models",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
-              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
-              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-13T16:33:16.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VirtualStoreMacoratti.Web",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\VirtualStoreMacoratti.Web.csproj",
-              "RelativeDocumentMoniker": "VirtualStoreMacoratti.Web.csproj",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\VirtualStoreMacoratti.Web.csproj",
-              "RelativeToolTip": "VirtualStoreMacoratti.Web.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-13T16:32:48.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Pages\\Home.razor",
-              "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T16:32:35.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.AppWeb\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.AppWeb\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T16:32:31.19Z",
+              "WhenOpened": "2025-04-14T01:10:30.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\_Imports.razor",
-              "RelativeDocumentMoniker": "_Imports.razor",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\_Imports.razor",
-              "RelativeToolTip": "_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.AppWeb\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.AppWeb\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T16:31:14.821Z",
+              "WhenOpened": "2025-04-14T01:08:06.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\appsettings.json",
-              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-12T16:00:13.468Z",
+              "DocumentIndex": 8,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.AppWeb\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.AppWeb\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:05:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalogo.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Pages\\Catalogo.razor",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.AppWeb\\Pages\\Catalogo.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Pages\\Catalogo.razor",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.AppWeb\\Pages\\Catalogo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T01:01:23.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.AppWeb\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.AppWeb\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T01:01:04.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\App.razor",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.AppWeb\\App.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\App.razor",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.AppWeb\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T01:00:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.AppWeb\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.AppWeb\\_Imports.razor",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.AppWeb\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T01:00:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlazorApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\BlazorApp2.csproj",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\BlazorApp2.csproj",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\BlazorApp2.csproj",
+              "RelativeToolTip": "..\\BlazorApp2\\BlazorApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T00:49:49.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T00:48:59.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\App.razor",
               "RelativeDocumentMoniker": "App.razor",
@@ -193,38 +307,493 @@
               "RelativeToolTip": "App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T16:35:34.837Z",
+              "WhenOpened": "2025-04-13T21:26:46.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T00:46:25.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T20:20:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Catalogo.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Pages\\Catalogo.razor",
+              "RelativeDocumentMoniker": "Pages\\Catalogo.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Pages\\Catalogo.razor",
+              "RelativeToolTip": "Pages\\Catalogo.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T21:18:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T00:49:13.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T00:49:16.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Program.cs",
+              "RelativeToolTip": "..\\BlazorApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:49:20.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\_Imports.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T00:49:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Weather.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T00:48:57.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\BlazorApp2\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T00:48:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T20:39:47.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:35:14.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T20:40:13.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VirtualStoreMacoratti.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\VirtualStoreMacoratti.Web.csproj",
+              "RelativeDocumentMoniker": "VirtualStoreMacoratti.Web.csproj",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\VirtualStoreMacoratti.Web.csproj",
+              "RelativeToolTip": "VirtualStoreMacoratti.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T16:32:48.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T20:27:53.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T00:19:52.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T20:29:51.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Program.cs",
               "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Program.cs",
               "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T03:17:24.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T03:17:24.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\Categoria.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:25:50.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T20:28:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VirtualStoreMacoratti.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\VirtualStoreMacoratti.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T21:21:40.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Services\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "Services\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Services\\IProdutoService.cs",
+              "RelativeToolTip": "Services\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:24:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Services\\ProdutoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:24:37.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:06:27.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CarrinhoCompraController.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Controllers\\CarrinhoCompraController.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Controllers\\CarrinhoCompraController.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Controllers\\CarrinhoCompraController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAMwF0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:08:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T19:27:30.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CarrinhoCompraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\CarrinhoCompraRepository.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Repositories\\CarrinhoCompraRepository.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\CarrinhoCompraRepository.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Repositories\\CarrinhoCompraRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:44:52.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICarrinhoCompraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\ICarrinhoCompraRepository.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Repositories\\ICarrinhoCompraRepository.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\ICarrinhoCompraRepository.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Repositories\\ICarrinhoCompraRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:44:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:41:26.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:40:01.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CarrinhoItemAdicionadoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAdicionadoDto.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAdicionadoDto.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAdicionadoDto.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAdicionadoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:32:55.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:03:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CarrinhoItemAtualizaQuantidadeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAtualizaQuantidadeDto.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAtualizaQuantidadeDto.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAtualizaQuantidadeDto.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemAtualizaQuantidadeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:34:42.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CarrinhoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemDto.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemDto.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemDto.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\DTO\\CarrinhoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:27:02.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\DTO\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\CategoriaDto.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\DTO\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:26:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CarrinhoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:48:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\DTO\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\DTO\\ProdutoDto.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\DTO\\ProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:24:11.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250413164604_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Migrations\\20250413164604_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:46:04.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\Produto.cs",
               "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Entities\\Produto.cs",
               "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\Produto.cs",
               "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Entities\\Produto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:44:31.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:44:31.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 41,
+              "Title": "VirtualStoreMacoratti.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.Models\\VirtualStoreMacoratti.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T16:33:16.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\appsettings.json",
+              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T16:00:13.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Carrinho.cs",
               "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\Carrinho.cs",
               "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Entities\\Carrinho.cs",
@@ -232,12 +801,11 @@
               "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Entities\\Carrinho.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:47:39.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:47:39.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 43,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Entities\\Usuario.cs",
@@ -245,34 +813,7 @@
               "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Entities\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:49:59.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CarrinhoItem.cs",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
-              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
-              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Entities\\CarrinhoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:48:29.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Bonaf\u00E9\\source\\repos\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "..\\VirtualStoreMacoratti.API\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAuwFwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T03:03:49.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:49:59.808Z"
             }
           ]
         }
